@@ -1,0 +1,3 @@
+.buddypress-wrap .select-wrap {border: none; min-width: 170px;}
+.buddypress-wrap .select-wrap select {margin-right: auto; position: absolute;}
+.buddypress-wrap .select-wrap span.select-arrow { display: none;}

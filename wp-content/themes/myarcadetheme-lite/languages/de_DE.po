@@ -1,0 +1,1136 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MyArcadeTheme 6.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-30 12:26+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Daniel Bakovic <contact@myarcadeplugin.com>\n"
+"Language-Team: MyArcadePlugin <contact@myarcadeplugin.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: activity\n"
+"X-Poedit-SearchPathExcluded-1: blogs\n"
+"X-Poedit-SearchPathExcluded-2: forums\n"
+"X-Poedit-SearchPathExcluded-3: groups\n"
+"X-Poedit-SearchPathExcluded-4: members\n"
+"X-Poedit-SearchPathExcluded-5: registration\n"
+"X-Poedit-SearchPathExcluded-6: inc/admin\n"
+
+#: 404.php:16 partials/content-none.php:2
+msgid "404"
+msgstr ""
+
+#: 404.php:17 partials/content-none.php:6
+msgid ""
+"Sorry, the page you asked for couldn't be found. Please, try to use the "
+"search form below."
+msgstr ""
+
+#: archive.php:34
+msgid "Show:"
+msgstr ""
+
+#: archive.php:36 inc/widgets/widget_most_played.php:119
+#: inc/widgets/widget_most_rated.php:110
+#: inc/widgets/widget_random_games.php:137
+msgid "Small"
+msgstr ""
+
+#: archive.php:37
+msgid "Large"
+msgstr ""
+
+#: archive.php:38
+msgid "Grid"
+msgstr ""
+
+#: archive.php:39
+msgid "Half"
+msgstr ""
+
+#: archive.php:44 partials/index-promoted.php:28
+msgid "Sort:"
+msgstr "Sortieren:"
+
+#: archive.php:46 partials/index-promoted.php:30
+msgid "Newest First"
+msgstr ""
+
+#: archive.php:47 partials/index-promoted.php:31
+msgid "Oldest First"
+msgstr ""
+
+#: archive.php:49 partials/index-promoted.php:33
+msgid "Highest Rated"
+msgstr ""
+
+#: archive.php:52 partials/index-promoted.php:36
+msgid "Most Played"
+msgstr ""
+
+#: archive.php:54 partials/index-promoted.php:38
+msgid "Most Discussed"
+msgstr ""
+
+#: archive.php:55 partials/index-promoted.php:39
+msgid "Alphabetically (A-Z)"
+msgstr "Alphabetisch (A-Z)"
+
+#: archive.php:56 partials/index-promoted.php:40
+msgid "Alphabetically (Z-A)"
+msgstr "Alphabetisch (Z-A)"
+
+#: comments.php:15
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:20 comments.php:29
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:39
+#, php-format
+msgid "COMMENTS %s#%s%s"
+msgstr ""
+
+#: comments.php:59
+msgid "LEAVE A REPLY"
+msgstr ""
+
+#: comments.php:60
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:62
+msgid "Name"
+msgstr ""
+
+#: comments.php:63
+msgid "Email"
+msgstr ""
+
+#: comments.php:64
+msgid "Website"
+msgstr ""
+
+#: comments.php:66
+msgid "Your comment here..."
+msgstr ""
+
+#: comments.php:69
+msgid "Your email address will not be published."
+msgstr ""
+
+#: footer.php:19 inc/widgets/widget_info.php:50
+msgid "MyArcadeTheme"
+msgstr ""
+
+#: footer.php:20 partials/header-layout-magazine.php:34
+msgid "Menu"
+msgstr ""
+
+#: footer.php:21 inc/widgets/widget_most_popular.php:97
+msgid "MOST POPULAR"
+msgstr ""
+
+#: footer.php:22
+msgid "Tags"
+msgstr ""
+
+#: footer.php:36
+#, php-format
+msgid "Proudly powered by %sMyArcadePlugin%s"
+msgstr ""
+
+#: functions.php:77 functions.php:142
+msgid "Loading..."
+msgstr ""
+
+#: functions.php:78 partials/footer-modal.php:24 partials/header-topbar.php:31
+msgid "LOGIN"
+msgstr ""
+
+#: functions.php:79 partials/footer-modal.php:42 partials/footer-modal.php:58
+msgid "Signup"
+msgstr ""
+
+#: functions.php:381
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: functions.php:383
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: functions.php:385
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: functions.php:387
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: functions.php:389
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: functions.php:391
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#: functions.php:395
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: functions.php:397
+msgid "Archives"
+msgstr ""
+
+#: functions.php:418
+msgid "Older games &laquo;"
+msgstr ""
+
+#: functions.php:419
+msgid "&raquo; Newer games"
+msgstr ""
+
+#: functions.php:594
+#, php-format
+msgid "PLAY NOW: %s"
+msgstr ""
+
+#: functions.php:594
+msgid "PLAY NOW!"
+msgstr ""
+
+#: functions.php:633 functions.php:634
+msgid "Home"
+msgstr ""
+
+#: functions.php:657
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:657
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:671
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:746
+msgid "RELATED GAMES"
+msgstr ""
+
+#: functions.php:918
+msgid "Delete Post"
+msgstr ""
+
+#: functions.php:920
+msgid "Edit Post"
+msgstr ""
+
+#: functions.php:1119 inc/widgets/widget_user_panel.php:142
+msgid "User Panel"
+msgstr ""
+
+#: functions.php:1121 inc/widgets/widget_recent_games.php:73
+msgid "Recent Games"
+msgstr ""
+
+#: functions.php:1123
+msgid "Featured Games"
+msgstr ""
+
+#: functions.php:1147
+#, php-format
+msgid "This is your %s sidebar and no widgets have been placed here, yet!"
+msgstr ""
+
+#: functions.php:1148
+#, php-format
+msgid "Click %shere%s to setup this this sidebar!"
+msgstr ""
+
+#: inc/actions.php:86
+msgid "Howdy!"
+msgstr ""
+
+#: inc/actions.php:86
+#, php-format
+msgid ""
+"There is an active contest available for this game. Click %shere%s to join "
+"the contest!"
+msgstr ""
+
+#: inc/ajax.php:68
+#, php-format
+msgid "Registration successfully completed. You can now log in %shere%s."
+msgstr ""
+
+#: inc/back-compat.php:31 inc/back-compat.php:39 inc/back-compat.php:50
+#, php-format
+msgid ""
+"MyArcadeTheme requires at least WordPress version 4.1. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: inc/myarcade_api.php:339 partials/archive-view-1.php:12
+msgid "<strong>PLAY</strong> <span>NOW!</span>"
+msgstr ""
+
+#: inc/myarcade_api.php:344
+#, php-format
+msgid "Image %s"
+msgstr ""
+
+#: inc/myarcade_api.php:344
+msgid "Zoom"
+msgstr ""
+
+#: inc/setup.php:80
+msgid "LATEST GAMES"
+msgstr ""
+
+#: inc/setup.php:136
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/setup.php:137
+msgid "Top Bar Menu"
+msgstr ""
+
+#: inc/widgets.php:43
+msgid "Front Page Builder"
+msgstr ""
+
+#: inc/widgets.php:45
+msgid ""
+"This is where you can build your front page. Enable the builder at Theme "
+"Options -> Front Page -> Design -> Front Page Builder."
+msgstr ""
+
+#: inc/widgets.php:56
+msgid "Main Sidebar"
+msgstr ""
+
+#: inc/widgets.php:58
+msgid "This is the sidebar that gets shown on the home page."
+msgstr ""
+
+#: inc/widgets.php:68
+msgid "Single Sidebar"
+msgstr ""
+
+#: inc/widgets.php:70
+msgid "This is your sidebar that gets shown on the game or blog pages."
+msgstr ""
+
+#: inc/widgets.php:80
+msgid "Game Left Sidebar"
+msgstr ""
+
+#: inc/widgets.php:82
+msgid "This is your sidebar that gets shown on the left site next to the game."
+msgstr ""
+
+#: inc/widgets.php:92
+msgid "Game Right Sidebar"
+msgstr ""
+
+#: inc/widgets.php:94
+msgid ""
+"This is your sidebar that gets shown on the right site next to the game."
+msgstr ""
+
+#: inc/widgets.php:104
+msgid "Page Sidebar"
+msgstr ""
+
+#: inc/widgets.php:106
+msgid "This is your sidebar that gets shown on most of your pages."
+msgstr ""
+
+#: inc/widgets.php:115
+msgid "Category Sidebar"
+msgstr ""
+
+#: inc/widgets.php:117
+msgid "This is your sidebar that gets shown on the category pages."
+msgstr ""
+
+#: inc/widgets.php:126
+msgid "Footer Sidebar"
+msgstr ""
+
+#: inc/widgets.php:128
+msgid "This is your sidebar that gets shown on the footer."
+msgstr ""
+
+#: inc/widgets/home-widget-advertisement.php:8
+msgid "Front Page - Advertisements"
+msgstr ""
+
+#: inc/widgets/home-widget-advertisement.php:10
+msgid "Display an advertisement banner (728x90px)."
+msgstr ""
+
+#: inc/widgets/home-widget-advertisement.php:67
+msgid "Banner Code"
+msgstr ""
+
+#: inc/widgets/home-widget-box-fullwidth.php:8
+msgid "Front Page - Full Width Box"
+msgstr ""
+
+#: inc/widgets/home-widget-box-fullwidth.php:10
+msgid "Display games in a full width box."
+msgstr ""
+
+#: inc/widgets/home-widget-box-fullwidth.php:56
+#: inc/widgets/home-widget-box-halfwidth.php:59
+#: inc/widgets/home-widget-box-horizontal.php:56
+#: inc/widgets/home-widget-box-vertical.php:59 partials/index-full.php:5
+#: partials/index-half.php:7 partials/index-horizontal.php:5
+#: partials/index-vertical.php:5
+msgid "MORE GAMES"
+msgstr ""
+
+#: inc/widgets/home-widget-box-fullwidth.php:68
+#: inc/widgets/home-widget-box-halfwidth.php:68
+#: inc/widgets/widget_most_popular.php:66 partials/archive-view-4.php:10
+#: partials/header-carousel.php:46 partials/index-full.php:13
+#: partials/index-half.php:15
+#, php-format
+msgid "%sPLAY%s %sNOW!%s"
+msgstr ""
+
+#: inc/widgets/home-widget-box-fullwidth.php:92
+#: inc/widgets/home-widget-box-halfwidth.php:94
+#: inc/widgets/home-widget-box-horizontal.php:93
+#: inc/widgets/home-widget-box-vertical.php:91
+msgid "No games found in this category!"
+msgstr ""
+
+#: inc/widgets/home-widget-box-fullwidth.php:134
+#: inc/widgets/home-widget-box-halfwidth.php:146
+#: inc/widgets/home-widget-box-halfwidth.php:151
+#: inc/widgets/home-widget-box-horizontal.php:135
+#: inc/widgets/home-widget-box-vertical.php:143
+#: inc/widgets/home-widget-box-vertical.php:148
+#: inc/widgets/home-widget-box-vertical.php:153
+msgid "Box name"
+msgstr ""
+
+#: inc/widgets/home-widget-box-fullwidth.php:141
+#: inc/widgets/home-widget-box-halfwidth.php:160
+#: inc/widgets/home-widget-box-horizontal.php:142
+#: inc/widgets/home-widget-box-vertical.php:162
+#: inc/widgets/home-widget-carousel.php:118
+#: inc/widgets/home-widget-halloffame.php:95
+#: inc/widgets/home-widget-text.php:69 inc/widgets/widget_advertisement.php:41
+#: inc/widgets/widget_info.php:52 inc/widgets/widget_most_played.php:110
+#: inc/widgets/widget_most_popular.php:99 inc/widgets/widget_most_rated.php:103
+#: inc/widgets/widget_random_games.php:115
+#: inc/widgets/widget_recent_games.php:75
+#: inc/widgets/widget_recent_posts.php:80 inc/widgets/widget_user_panel.php:146
+#: inc/widgets/widget_youtube_video.php:56
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/home-widget-box-halfwidth.php:8
+msgid "Front Page - Half Width Box"
+msgstr ""
+
+#: inc/widgets/home-widget-box-halfwidth.php:10
+msgid "Display games in a half width box."
+msgstr ""
+
+#: inc/widgets/home-widget-box-halfwidth.php:159
+#: inc/widgets/home-widget-box-vertical.php:161
+#, php-format
+msgid "Category Box %s"
+msgstr ""
+
+#: inc/widgets/home-widget-box-horizontal.php:8
+msgid "Front Page - Horizontal Box"
+msgstr ""
+
+#: inc/widgets/home-widget-box-horizontal.php:10
+msgid "Display games in a horizontal box."
+msgstr ""
+
+#: inc/widgets/home-widget-box-vertical.php:8
+msgid "Front Page - Vertical Box"
+msgstr ""
+
+#: inc/widgets/home-widget-box-vertical.php:10
+msgid "Display games in a vertical box."
+msgstr ""
+
+#: inc/widgets/home-widget-carousel.php:8
+msgid "Front Page - Carousel"
+msgstr ""
+
+#: inc/widgets/home-widget-carousel.php:10
+msgid "Shows a games carousel."
+msgstr ""
+
+#: inc/widgets/home-widget-carousel.php:116
+msgid "RECOMMENDED GAMES"
+msgstr ""
+
+#: inc/widgets/home-widget-halloffame.php:8
+msgid "Front Page - Hall Of Fame"
+msgstr ""
+
+#: inc/widgets/home-widget-halloffame.php:10
+msgid "Show the best players of your site (MyScoresPresenter required)."
+msgstr ""
+
+#: inc/widgets/home-widget-halloffame.php:43 partials/index-hall-of-fame.php:18
+#, php-format
+msgid "%s plays"
+msgstr ""
+
+#: inc/widgets/home-widget-halloffame.php:44 partials/index-hall-of-fame.php:19
+#, php-format
+msgid "%s High Scores"
+msgstr ""
+
+#: inc/widgets/home-widget-halloffame.php:51
+msgid "Currently there are no best players!"
+msgstr ""
+
+#: inc/widgets/home-widget-halloffame.php:59
+msgid "MyScoresPresenter is required in order to dispaly 'Hall of Fame'."
+msgstr ""
+
+#: inc/widgets/home-widget-halloffame.php:93
+msgid "Hall Of Fame"
+msgstr ""
+
+#: inc/widgets/home-widget-text.php:8
+msgid "Front Page - Text Box"
+msgstr ""
+
+#: inc/widgets/home-widget-text.php:10
+msgid "Add some text for SEO purpose or just to introduce your site."
+msgstr ""
+
+#: inc/widgets/home-widget-text.php:66
+msgid "Front Page Text"
+msgstr ""
+
+#: inc/widgets/home-widget-text.php:71 inc/widgets/widget_info.php:54
+msgid "Text"
+msgstr ""
+
+#: inc/widgets/widget_ads125.php:8
+msgid "Declare up to six 125x125 advertisements to be displayed in a grid."
+msgstr ""
+
+#: inc/widgets/widget_ads125.php:9
+msgid "MyArcade Ads - Square Buttons"
+msgstr ""
+
+#: inc/widgets/widget_ads125.php:94 inc/widgets/widget_ads125.php:95
+#: inc/widgets/widget_advertisement.php:39
+msgid "Advertisement"
+msgstr ""
+
+#: inc/widgets/widget_ads125.php:142
+msgid "Advertising"
+msgstr ""
+
+#: inc/widgets/widget_ads125.php:146
+msgid ""
+"Fill in as many ads as you would like to use. You must have at least one. "
+"Ads should be 125x125."
+msgstr ""
+
+#: inc/widgets/widget_ads125.php:149
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/widget_ads125.php:154
+msgid "Ad 1"
+msgstr ""
+
+#: inc/widgets/widget_ads125.php:155 inc/widgets/widget_ads125.php:161
+#: inc/widgets/widget_ads125.php:167 inc/widgets/widget_ads125.php:173
+#: inc/widgets/widget_ads125.php:179 inc/widgets/widget_ads125.php:185
+msgid "Image URL:"
+msgstr ""
+
+#: inc/widgets/widget_ads125.php:156 inc/widgets/widget_ads125.php:162
+#: inc/widgets/widget_ads125.php:168 inc/widgets/widget_ads125.php:174
+#: inc/widgets/widget_ads125.php:180 inc/widgets/widget_ads125.php:186
+msgid "Link URL:"
+msgstr ""
+
+#: inc/widgets/widget_ads125.php:160
+msgid "Ad 2"
+msgstr ""
+
+#: inc/widgets/widget_ads125.php:166
+msgid "Ad 3"
+msgstr ""
+
+#: inc/widgets/widget_ads125.php:172
+msgid "Ad 4"
+msgstr ""
+
+#: inc/widgets/widget_ads125.php:178
+msgid "Ad 5"
+msgstr ""
+
+#: inc/widgets/widget_ads125.php:184
+msgid "Ad 6"
+msgstr ""
+
+#: inc/widgets/widget_advertisement.php:9
+msgid "Show advertisements where ever you want in your sidebar."
+msgstr ""
+
+#: inc/widgets/widget_advertisement.php:10
+msgid "MyArcade Advertisement"
+msgstr ""
+
+#: inc/widgets/widget_advertisement.php:43
+msgid "300x250px Banner Code"
+msgstr ""
+
+#: inc/widgets/widget_info.php:6
+msgid "Displays information in the footer site."
+msgstr ""
+
+#: inc/widgets/widget_info.php:7
+msgid "MyArcadeTheme Info"
+msgstr ""
+
+#: inc/widgets/widget_most_played.php:13 inc/widgets/widget_most_popular.php:13
+msgid "Shows images of the most played games. WP-PostViews Plugin required!"
+msgstr ""
+
+#: inc/widgets/widget_most_played.php:14
+msgid "MyArcade Most Played Games"
+msgstr ""
+
+#: inc/widgets/widget_most_played.php:69 inc/widgets/widget_most_rated.php:63
+#: inc/widgets/widget_random_games.php:69
+#: inc/widgets/widget_recent_games.php:41
+msgid "Play"
+msgstr ""
+
+#: inc/widgets/widget_most_played.php:105
+msgid "Most Played Games"
+msgstr ""
+
+#: inc/widgets/widget_most_played.php:115 inc/widgets/widget_most_rated.php:106
+#: inc/widgets/widget_random_games.php:133
+msgid "Thumbnail Style"
+msgstr ""
+
+#: inc/widgets/widget_most_played.php:120 inc/widgets/widget_most_rated.php:111
+#: inc/widgets/widget_random_games.php:138 partials/social-share.php:155
+#: partials/social-share.php:156
+msgid "Medium"
+msgstr ""
+
+#: inc/widgets/widget_most_popular.php:14
+msgid "MyArcade Most Popular Games"
+msgstr ""
+
+#: inc/widgets/widget_most_rated.php:12
+msgid "Shows images of the most rated games. WP-Ratings Plugin required!"
+msgstr ""
+
+#: inc/widgets/widget_most_rated.php:13
+msgid "MyArcade Most Rated Games"
+msgstr ""
+
+#: inc/widgets/widget_most_rated.php:78
+msgid "No Games"
+msgstr ""
+
+#: inc/widgets/widget_most_rated.php:98
+msgid "Most Rated Games"
+msgstr ""
+
+#: inc/widgets/widget_random_games.php:10
+msgid "Games by selectable criteria."
+msgstr ""
+
+#: inc/widgets/widget_random_games.php:11
+msgid "MyArcade Games"
+msgstr ""
+
+#: inc/widgets/widget_random_games.php:108
+msgid "Games"
+msgstr ""
+
+#: inc/widgets/widget_random_games.php:120
+msgid "Type"
+msgstr ""
+
+#: inc/widgets/widget_random_games.php:124
+msgid "Random Games"
+msgstr ""
+
+#: inc/widgets/widget_random_games.php:125
+msgid "Related Games (only on sigle view)"
+msgstr ""
+
+#: inc/widgets/widget_recent_games.php:10
+msgid "Shows images of the most recent games."
+msgstr ""
+
+#: inc/widgets/widget_recent_games.php:11
+msgid "MyArcade Recent Games"
+msgstr ""
+
+#: inc/widgets/widget_recent_posts.php:10
+msgid "Shows most recent blog posts with thumbnails."
+msgstr ""
+
+#: inc/widgets/widget_recent_posts.php:11
+msgid "MyArcade Recent Posts"
+msgstr ""
+
+#: inc/widgets/widget_recent_posts.php:46
+msgid "Read More"
+msgstr ""
+
+#: inc/widgets/widget_recent_posts.php:78
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets/widget_user_panel.php:11
+msgid "Shows the user login and the user panel."
+msgstr ""
+
+#: inc/widgets/widget_user_panel.php:12
+msgid "MyArcade User Login Panel"
+msgstr ""
+
+#: inc/widgets/widget_user_panel.php:55
+msgid "Hello"
+msgstr ""
+
+#: inc/widgets/widget_user_panel.php:58
+msgid "MY ACCOUNT"
+msgstr ""
+
+#: inc/widgets/widget_user_panel.php:63
+msgid "Activity"
+msgstr ""
+
+#: inc/widgets/widget_user_panel.php:65
+msgid "Members"
+msgstr ""
+
+#: inc/widgets/widget_user_panel.php:67
+msgid "Groups"
+msgstr ""
+
+#: inc/widgets/widget_user_panel.php:70
+msgid "Friends"
+msgstr ""
+
+#: inc/widgets/widget_user_panel.php:72
+msgid "Profile"
+msgstr ""
+
+#: inc/widgets/widget_user_panel.php:74
+msgid "My Scores"
+msgstr ""
+
+#: inc/widgets/widget_user_panel.php:77
+msgid "Go to Dashboard"
+msgstr ""
+
+#: inc/widgets/widget_user_panel.php:78
+msgid "Edit My Profile"
+msgstr ""
+
+#: inc/widgets/widget_user_panel.php:82
+msgid "LOGOUT"
+msgstr ""
+
+#: inc/widgets/widget_user_panel.php:87
+msgid "Your Favorite Games"
+msgstr ""
+
+#: inc/widgets/widget_user_panel.php:98
+msgid "username"
+msgstr ""
+
+#: inc/widgets/widget_user_panel.php:99
+msgid "password"
+msgstr ""
+
+#: inc/widgets/widget_user_panel.php:101 inc/widgets/widget_user_panel.php:112
+#: partials/footer-modal.php:12
+msgid "Login"
+msgstr ""
+
+#: inc/widgets/widget_user_panel.php:103 inc/widgets/widget_user_panel.php:117
+msgid "LOGIN WITH"
+msgstr ""
+
+#: inc/widgets/widget_user_panel.php:108 inc/widgets/widget_user_panel.php:114
+msgid "Register"
+msgstr ""
+
+#: inc/widgets/widget_user_panel.php:110 partials/footer-modal.php:19
+msgid "Lost password?"
+msgstr ""
+
+#: inc/widgets/widget_user_panel.php:149
+msgid "Login Form"
+msgstr ""
+
+#: inc/widgets/widget_user_panel.php:153 inc/widgets/widget_user_panel.php:165
+msgid "Show"
+msgstr ""
+
+#: inc/widgets/widget_user_panel.php:154
+msgid "Button"
+msgstr ""
+
+#: inc/widgets/widget_user_panel.php:155 inc/widgets/widget_user_panel.php:166
+msgid "Hide"
+msgstr ""
+
+#: inc/widgets/widget_user_panel.php:161
+msgid "Favorite Games"
+msgstr ""
+
+#: inc/widgets/widget_youtube_video.php:9
+msgid "Embeds a youtube video to your sidebar."
+msgstr ""
+
+#: inc/widgets/widget_youtube_video.php:10
+msgid "MyArcade Youtube Widget"
+msgstr ""
+
+#: inc/widgets/widget_youtube_video.php:54
+msgid "Featured Video"
+msgstr ""
+
+#: inc/widgets/widget_youtube_video.php:57
+msgid "Video ID"
+msgstr ""
+
+#: index.php:23
+#, php-format
+msgid ""
+"There are no widgets in your 'Front Page Sidebar'. Navigate to %sAppearance -"
+"> Widgets%s and add some widgets to this sidebar."
+msgstr ""
+
+#: partials/content-none-mobile.php:2
+msgid "Oops!"
+msgstr ""
+
+#: partials/content-none-mobile.php:5
+msgid "This game has no mobile version. Please try another one!"
+msgstr ""
+
+#: partials/footer-modal.php:8 partials/footer-modal.php:38
+#: partials/footer-modal.php:71
+msgid "Close"
+msgstr ""
+
+#: partials/footer-modal.php:14 partials/footer-modal.php:44
+msgid "User name"
+msgstr ""
+
+#: partials/footer-modal.php:17 partials/footer-modal.php:50
+msgid "Password"
+msgstr ""
+
+#: partials/footer-modal.php:20
+msgid "Remember me"
+msgstr ""
+
+#: partials/footer-modal.php:26 partials/footer-modal.php:60
+#, php-format
+msgid "LOGIN WITH %sFACEBOOK%s"
+msgstr ""
+
+#: partials/footer-modal.php:47
+msgid "Your email address"
+msgstr ""
+
+#: partials/footer-modal.php:53
+msgid "Retype password"
+msgstr ""
+
+#: partials/footer-modal.php:76
+msgid "To search type and hit enter"
+msgstr ""
+
+#: partials/footer-modal.php:77 partials/form-search.php:4
+msgid "Search"
+msgstr ""
+
+#: partials/footer-modal.php:78
+msgid "PRESS ENTER TO SEARCH"
+msgstr ""
+
+#: partials/form-search.php:3
+msgid "Search game..."
+msgstr ""
+
+#: partials/game-buttons.php:6
+msgid "Turn lights on/off"
+msgstr ""
+
+#: partials/game-buttons.php:14 partials/game-buttons.php:16
+msgid "Play in fullscreen"
+msgstr ""
+
+#: partials/game-buttons.php:22
+msgid "Report this game"
+msgstr ""
+
+#: partials/game-buttons.php:30 partials/game-landing.php:70
+#: partials/single-content.php:26 partials/social-share.php:3
+#: partials/social-share.php:4 template-blog-post.php:51
+msgid "Facebook"
+msgstr ""
+
+#: partials/game-buttons.php:31 partials/game-landing.php:71
+#: partials/single-content.php:27 partials/social-share.php:11
+#: partials/social-share.php:12 template-blog-post.php:52
+msgid "Twitter"
+msgstr ""
+
+#: partials/game-default-progressbar.php:65
+msgid "Loading ..."
+msgstr ""
+
+#: partials/game-embed-box.php:2
+msgid "DO YOU LIKE THIS GAME?"
+msgstr ""
+
+#: partials/game-embed-box.php:4
+msgid "Embed this game"
+msgstr ""
+
+#: partials/game-landing.php:44 partials/game-play-content.php:5
+msgid "GAME INFO"
+msgstr ""
+
+#: partials/game-landing.php:66 partials/single-content.php:21
+#: template-blog-post.php:48
+msgid "Tags:"
+msgstr ""
+
+#: partials/game-landing.php:68 partials/single-content.php:24
+msgid "SHARE"
+msgstr ""
+
+#: partials/game-play-content.php:3
+msgid "GAME INSTRUCTIONS"
+msgstr ""
+
+#: partials/game-related.php:32 yarpp-template-related.php:16
+#, php-format
+msgid "Play %s"
+msgstr ""
+
+#: partials/game-related.php:44
+msgid "No related games found."
+msgstr ""
+
+#: partials/game-screenshots.php:3
+msgid "Screen Shots"
+msgstr ""
+
+#: partials/game-veedi.php:2
+msgid "Walkthrough Video"
+msgstr ""
+
+#: partials/game-video.php:3
+msgid "Video"
+msgstr ""
+
+#: partials/header-layout-magazine.php:45
+msgid "Play a random game!"
+msgstr ""
+
+#: partials/header-layout-magazine.php:46
+msgid "RANDOM GAME"
+msgstr ""
+
+#: partials/header-news.php:17
+msgid "NEWS"
+msgstr ""
+
+#: partials/header-topbar.php:38
+#, php-format
+msgid "Hello, <strong>%s</strong>"
+msgstr ""
+
+#: partials/header-topbar.php:41
+msgid "My account"
+msgstr ""
+
+#: partials/header-topbar.php:42
+msgid "Logout"
+msgstr ""
+
+#: partials/header-topbar.php:59
+msgid "REGISTER"
+msgstr ""
+
+#: partials/header-topbar.php:67
+msgid "SEARCH"
+msgstr ""
+
+#: partials/header-topbar.php:72
+msgid "FOLLOW US"
+msgstr ""
+
+#: partials/index-hall-of-fame.php:10
+msgid "HALL OF FAME"
+msgstr ""
+
+#: partials/index-promoted-loop.php:83
+msgid "No games found"
+msgstr ""
+
+#: partials/social-share.php:19
+msgid "Linkedin Company Page"
+msgstr ""
+
+#: partials/social-share.php:20
+msgid "Linkedin"
+msgstr ""
+
+#: partials/social-share.php:27 partials/social-share.php:28
+msgid "Youtube"
+msgstr ""
+
+#: partials/social-share.php:35 partials/social-share.php:36
+msgid "Tumblr"
+msgstr ""
+
+#: partials/social-share.php:43 partials/social-share.php:44
+msgid "Delicious"
+msgstr ""
+
+#: partials/social-share.php:51 partials/social-share.php:52
+msgid "Reddit"
+msgstr ""
+
+#: partials/social-share.php:59
+msgid "Steam Group"
+msgstr ""
+
+#: partials/social-share.php:60
+msgid "Steam"
+msgstr ""
+
+#: partials/social-share.php:67 partials/social-share.php:68
+msgid "Twitch"
+msgstr ""
+
+#: partials/social-share.php:75 partials/social-share.php:76
+msgid "Instagram"
+msgstr ""
+
+#: partials/social-share.php:83 partials/social-share.php:84
+msgid "Pinterest"
+msgstr ""
+
+#: partials/social-share.php:91 partials/social-share.php:92
+msgid "Stumbleupon"
+msgstr ""
+
+#: partials/social-share.php:99 partials/social-share.php:100
+msgid "Vimeo"
+msgstr ""
+
+#: partials/social-share.php:107 partials/social-share.php:108
+msgid "SoundCloud"
+msgstr ""
+
+#: partials/social-share.php:115 partials/social-share.php:116
+msgid "Quora"
+msgstr ""
+
+#: partials/social-share.php:123 partials/social-share.php:124
+msgid "VK"
+msgstr ""
+
+#: partials/social-share.php:131 partials/social-share.php:132
+msgid "Odnoklassniki"
+msgstr ""
+
+#: partials/social-share.php:139 partials/social-share.php:140
+msgid "RenRen"
+msgstr ""
+
+#: partials/social-share.php:147 partials/social-share.php:148
+msgid "Weibo"
+msgstr ""
+
+#: partials/social-share.php:163 partials/social-share.php:164
+msgid "Telegram"
+msgstr ""
+
+#: partials/social-share.php:171 partials/social-share.php:172
+msgid "SnapChat"
+msgstr ""
+
+#: partials/social-share.php:179 partials/social-share.php:180
+msgid "RSS"
+msgstr ""
+
+#: search.php:24
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single-fullscreen.php:6
+msgid "Playing game:"
+msgstr ""
+
+#: single-fullscreen.php:15
+msgid "Go back to"
+msgstr ""
+
+#: template-blog-post.php:50
+msgid "Share:"
+msgstr ""
+
+#: template-blog.php:62
+#, php-format
+msgid "Read more about %s"
+msgstr ""
+
+#: template-blog.php:62
+msgid "READ MORE"
+msgstr ""

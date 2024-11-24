@@ -1,0 +1,1 @@
+jQuery(document).ready(function($){$(document).on( 'keyup', function(e){if(e.keyCode==27)$(".lgtbxbg-pofi").fadeOut(150)});$(".lgtbxbg-pofi").on( 'click', function(e){e.preventDefault();$(".lgtbxbg-pofi").fadeOut(150)});$(".trnlgt").on( 'click', function(e){e.preventDefault();$(".lgtbxbg-pofi").fadeIn(150)});$(".lgtbxbg-pofi").css("opacity",0.7);});

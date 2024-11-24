@@ -1,0 +1,15 @@
+/**
+ * Redux style tweeks
+ */
+ .redux-container-sorter ul {
+    width: auto;
+    
+ }
+ .redux-container-sorter h3 {
+   text-transform: capitalize;
+   text-align: center;
+ }
+
+#myarcadetheme-game_layout li.redux-image-select {
+  margin-right: 10px !important;
+}
